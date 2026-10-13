@@ -1,0 +1,42 @@
+{
+  "tanggal_unduh": "2026-10-13",
+  "num_rows": 303,
+  "num_cols": 15,
+  "num_fitur": 13,
+  "kolom_fitur": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "kolom_target": [
+    "num"
+  ],
+  "missing_value_total": 6,
+  "missing_per_kolom": {
+    "ca": 4,
+    "thal": 2
+  },
+  "distribusi_kelas_asli": {
+    "0": 164,
+    "1": 55,
+    "2": 36,
+    "3": 35,
+    "4": 13
+  },
+  "distribusi_biner": {
+    "0": 164,
+    "1": 139
+  },
+  "nama_dataset": "Heart Disease",
+  "url": "https://archive.ics.uci.edu/dataset/45/heart+disease"
+}
