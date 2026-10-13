@@ -2,11 +2,11 @@
 
 **Nama**: Muhammad Ashab Ibnu Abdul Aziz  
 **NIM**: 231240001399  
-**Mata Kuliah**: Metodologi Penelitian (24TIF505) — UNISNU Jepara  
+**Mata Kuliah**: Pemrograman Mobile Lanjut — UNISNU Jepara  
 
 ---
 
-Dokumen ini mencatat bukti dan status verifikasi dari 10 referensi yang digunakan dalam studi literatur tugas Bab III Metodologi Penelitian.
+Dokumen ini mencatat bukti dan status verifikasi dari 10 referensi yang digunakan dalam studi literatur tugas Bab III.
 
 Verifikasi dilakukan secara komprehensif melalui:
 1. **Crossref API** (`https://api.crossref.org/works/{doi}`) untuk memastikan validitas DOI resmi, kesesuaian judul, jurnal penerbit, volume, nomor, dan tahun terbit.

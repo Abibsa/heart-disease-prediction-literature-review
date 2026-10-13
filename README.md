@@ -1,5 +1,5 @@
 # Tugas Bab III: Identifikasi Masalah dan Studi Literatur
-## Mata Kuliah Metodologi Penelitian (24TIF505)
+## Mata Kuliah Pemrograman Mobile Lanjut
 
 Repositori ini memuat hasil pengerjaan **Latihan Soal Bab III: Identifikasi Masalah dan Studi Literatur** berdasarkan buku ajar *Metodologi Penelitian: Riset Berbasis Data dan Data Mining untuk Informatika* (Akhmad Khanif Zyen, S.Kom., M.Kom., UNISNU Jepara, 2026).
 
@@ -14,7 +14,7 @@ Repositori ini memuat hasil pengerjaan **Latihan Soal Bab III: Identifikasi Masa
 | **Program Studi** | Teknik Informatika |
 | **Fakultas** | Sains dan Teknologi |
 | **Perguruan Tinggi** | Universitas Islam Nahdlatul Ulama (UNISNU) Jepara |
-| **Mata Kuliah** | Metodologi Penelitian (24TIF505) |
+| **Mata Kuliah** | Pemrograman Mobile Lanjut |
 | **Dosen Pengampu** | Akhmad Khanif Zyen, S.Kom., M.Kom. |
 
 ---

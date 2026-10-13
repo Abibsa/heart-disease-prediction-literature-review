@@ -2,7 +2,7 @@
 
 **Nama**: Muhammad Ashab Ibnu Abdul Aziz  
 **NIM**: 231240001399  
-**Mata Kuliah**: Metodologi Penelitian (24TIF505) — UNISNU Jepara  
+**Mata Kuliah**: Pemrograman Mobile Lanjut — UNISNU Jepara  
 
 ---
 

@@ -1,12 +1,12 @@
-# Jawaban Soal 4, 5, dan 6 (Buku Ajar Metodologi Penelitian — Subbab 3.11)
+# Jawaban Soal 4, 5, dan 6 (Subbab 3.11: Latihan Soal Bab III)
 
 **Nama**: Muhammad Ashab Ibnu Abdul Aziz  
 **NIM**: 231240001399  
-**Mata Kuliah**: Metodologi Penelitian (24TIF505) — UNISNU Jepara  
+**Mata Kuliah**: Pemrograman Mobile Lanjut — UNISNU Jepara  
 
 ---
 
-Dokumen ini memuat jawaban analitis untuk **Latihan Soal 4, 5, dan 6** pada Buku Ajar *Metodologi Penelitian: Riset Berbasis Data dan Data Mining untuk Informatika* (Akhmad Khanif Zyen, UNISNU Jepara, 2026, hlm. 20–21), serta sintesis lanjutan rumusan masalah penelitian berdasarkan studi literatur 10 artikel terverifikasi.
+Dokumen ini memuat jawaban analitis untuk **Latihan Soal 4, 5, dan 6** pada materi studi literatur dan riset data (Subbab 3.11), serta sintesis lanjutan rumusan masalah penelitian berdasarkan studi literatur 10 artikel terverifikasi.
 
 ---
 
